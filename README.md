@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DrDesh9
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in bioinformatics and coding for life sciences
+- 🌱 I’m currently learning R and Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
